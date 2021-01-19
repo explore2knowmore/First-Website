@@ -1,0 +1,194 @@
+.navbar{
+  background-color:aquamarine;
+  position:fixed;
+  width:100%; 
+  padding-top: 0px;
+  z-index: 1;
+  padding-left: 10%;
+}
+
+
+.navbar-brand{
+  font-size: 2rem;
+  font-weight: bold;
+  color:#000;
+}
+
+.brand-image{
+   height:50 px;
+   width:130px;
+}
+
+.navbar-nav{
+    margin-left: 50%;
+}
+
+
+
+.nav-link{
+  font-family: "Ubantu";
+  font-size:1.2rem;
+  color:#000;
+}
+
+#title{
+  background-color:#a6a9b6;
+  padding-top:100px;;
+  padding-right:10%;
+  padding-left:10%;
+}  
+
+h1{
+  color:#fff;
+   font-family: "Montserrat";
+   font-size: 3rem;
+   line-height: 1.5;
+   padding-bottom: 4%;
+}
+
+h2{
+  color:rgb(12, 12, 12);
+  font-family:"Montserrat";
+  font-size:1.5rem;
+  text-align: center;
+}
+
+h3{
+  font-family: "Montserrat";
+  font-size:2rem;
+}
+
+p{
+  color:#000;
+}
+
+
+.heading{
+  margin-top: 20px;
+}
+
+
+.carousel-inner{
+    width:100%;
+    height:500px;
+}
+
+.carousel-indicators li {
+  width: 8px;
+  height: 8px;
+  border-radius: 100%;
+}
+
+.carousel-item{
+  padding:5% 15%;
+}
+
+.test-image{
+  width:60%;
+  height:80%;
+  margin:60px;
+}
+
+a{
+   text-decoration: none;
+}
+
+.testimonial-text:hover{
+   color:#fff;
+}
+
+.images{
+  width:70%;
+  height:65%;
+  margin:60px;
+}
+
+.description{
+  margin:30px;
+}
+
+
+#book1{
+  background-color:#f3f2da;
+}
+
+#book2{
+  background-color: #e8eae6;
+}
+
+#book3{
+  background-color: #cae4db;
+}
+#book4{
+  background-color: #ffeebb;
+}
+
+#book5{
+  background-color: #cfdac8;
+}
+
+#book6{
+  background-color: #cae4db;
+}
+
+#book7{
+  background-color: #cdfffc;
+}
+
+#book9{
+  background-color: #fff5c0;
+}
+
+#book10{
+  background-color: #d0e8f2;
+}
+
+.container-fluid{
+  padding: 0 10%;
+}
+
+#faq{
+  text-align: left;
+  padding: 5% 15% 5% 15%;
+}
+
+.question{
+   font-size:1.5rem;
+   color:brown;
+}
+
+#about{
+  text-align: left;
+  padding: 5% 15% 5% 15%;
+}
+
+#footer{  
+  padding:5% 15% 5% 15%; 
+  
+}
+
+.contact{
+  text-align: center;
+}
+
+.footer-icon{
+  margin-left:170px;
+  height:20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
